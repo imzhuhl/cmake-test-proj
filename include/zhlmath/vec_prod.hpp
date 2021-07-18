@@ -1,3 +1,5 @@
+#ifndef MYLIB_ZHLMATH_VEC_PROD_H_
+#define MYLIB_ZHLMATH_VEC_PROD_H_
 
 namespace zhlmath {
 
@@ -13,3 +15,5 @@ Tp_ vec_inner_product(Tp_* a, Tp_* b, unsigned size) {
 
 
 }
+
+#endif

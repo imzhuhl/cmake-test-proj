@@ -1,5 +1,5 @@
-#ifndef ZHLMATH_VEC_ADD_H_
-#define ZHLMATH_VEC_ADD_H_
+#ifndef MYLIB_ZHLMATH_VEC_ADD_H_
+#define MYLIB_ZHLMATH_VEC_ADD_H_
 
 namespace zhlmath {
 

@@ -1,5 +1,5 @@
-#ifndef MYLIB_HELLO_GREET_H_
-#define MYLIB_HELLO_GREET_H_
+#ifndef MYLIB_GREET_GREET_H_
+#define MYLIB_GREET_GREET_H_
 
 #include <string>
 
